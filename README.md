@@ -1,4 +1,4 @@
-# 🚀 SonicPay - Web3 Subscription Platform
+# 🚀 PulsePay - Web3 Subscription Platform
 
 **The first decentralized subscription platform built on Sonic Network with gasless transactions and automated payments.**
 
